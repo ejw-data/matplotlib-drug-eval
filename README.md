@@ -8,6 +8,7 @@ Author:  Erin James Wills, ejw.data@gmail.com
 
 ## Overview  
 Analysis of drug treatments on mice tumors.  Analysis was performed by using Pandas and Matplotlib.
+
 <br>  
 
 ## Technologies  
@@ -36,23 +37,20 @@ Analysis of drug treatments on mice tumors.  Analysis was performed by using Pan
 
 ## Analysis  
 
-![Drug Evaluation](https://github.com/ejw-data/matplotlib-drug-eval/blob/master/mouse-drug-study/Outputs/tumor_change_bar_plot.jpeg?raw=true)
+![Drug Evaluation](./outputs/tumor_change_bar_plot.jpeg?raw=true)
 <br>
 
 
-![Tumor Size](https://github.com/ejw-data/matplotlib-drug-eval/blob/master/mouse-drug-study/Outputs/metastic_line_plot.jpeg?raw=true)
+![Tumor Size](./outputs/metastic_line_plot.jpeg?raw=true)
 <br>
 
-![Survival Rate](https://github.com/ejw-data/matplotlib-drug-eval/blob/master/mouse-drug-study/Outputs/mouse_survival_line_plot.jpeg?raw=true)
+![Survival Rate](./outputs/mouse_survival_line_plot.jpeg?raw=true)
 <br>
 
-![Drug Evaluation](https://github.com/ejw-data/matplotlib-drug-eval/blob/master/mouse-drug-study/Outputs/tumor_change_bar_plot.jpeg?raw=true)
+![Drug Evaluation](./outputs/tumor_change_bar_plot.jpeg?raw=true)
 <br>
 <br>
-## Notable Revisions
-| Change Date | Description |  
-|--- | --- |    
-| 1/1/2020 | Updated readme |  
 
-<br>
-<br>
+## Notes
+*  Updated data and improved dataframe naming
+*  Added additional analysis
