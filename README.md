@@ -68,7 +68,9 @@ Further analysis will be performed using the control group (placebo group).
 
 
 <figure>
+
 ![Drug Evaluation](./outputs/tumor_change_bar_plot.jpeg)
+
 <figcaption>Fig.1 - Tumor Volume Change After 45 Days </figcaption>  
 </figure>
 <hr>
@@ -76,7 +78,9 @@ Further analysis will be performed using the control group (placebo group).
 <br>
 
 <figure>
+
 ![Tumor Size](./outputs/metastic_line_plot.jpeg)
+
 <figcaption>Fig.2 - Metastatic Site Spread During Treatment Period</figcaption>
 </figure>
 <hr>
@@ -84,7 +88,9 @@ Further analysis will be performed using the control group (placebo group).
 <br>
 
 <figure>
+
 ![Survival Rate](./outputs/mouse_survival_line_plot.jpeg)  
+
 <figcaption>Fig.3 - Percent of Mice Survived Over Treatment Period </figcaption>
 </figure>
 <hr>
@@ -92,7 +98,9 @@ Further analysis will be performed using the control group (placebo group).
 <br>
 
 <figure>
+
 ![Outliers](./outputs/tumor_volume_boxplot.jpeg)
+
 <figcaption>Fig.4 - Tumor Volume and Outliers per Treatment (last measurement) </figcaption>
 </figure>
 <hr>
@@ -100,7 +108,9 @@ Further analysis will be performed using the control group (placebo group).
 <br>
 
 <figure>
+
 ![Measurement Data Distribution](./outputs/characteristics_histogram.jpeg)
+
 <figcaption>Fig.5 - Distribution of Mouse Data</figcaption>
 </figure>
 <hr>
@@ -108,7 +118,9 @@ Further analysis will be performed using the control group (placebo group).
 <br>
 
 <figure>
+
 ![Mouse Weight Distribution](./outputs/regression-avgdata-alldata.jpeg)
+
 <figcaption>Fig.6 - Tumor Volume Changes versus Initial Mouse Weight</figcaption>
 </figure>
 <hr>
@@ -116,7 +128,9 @@ Further analysis will be performed using the control group (placebo group).
 <br>
 
 <figure>
+
 ![Metastatic Sites](./outputs/change_in_sites_stack_bar.jpeg)
+
 <figcaption>Fig.7 - Metastatic Sites Changes versus Initial Mouse Weight</figcaption>
 </figure>
 <hr>
